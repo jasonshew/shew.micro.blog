@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://shew.micro.blog/2025/05/18/remnant/",
+				"title": "Remnant",
+				"content_html": "<p>The earthquake struck when I was six.<br>\nI survived.<br>\nMost of my classmates didn’t.</p>\n<p>Now I’m in college, in another city.<br>\nWhenever I return home, I pass their parents on the street.\nThey stop me,<br>\ntheir eyes scanning me —<br>\nas if searching for what might have been.<br>\nThen, with a gentle, aching smile, they say,<br>\n“You’ve grown so much.”</p>\n",
+				"content_text": "The earthquake struck when I was six.  \nI survived.  \nMost of my classmates didn’t.  \n\nNow I’m in college, in another city.  \nWhenever I return home, I pass their parents on the street.\nThey stop me,  \ntheir eyes scanning me —  \nas if searching for what might have been.  \nThen, with a gentle, aching smile, they say,  \n“You’ve grown so much.”\n",
+				"date_published": "2025-05-18T01:11:40-04:00",
+				"url": "https://jasonshew.com/2025/05/18/remnant/",
+				"tags": ["Blogpost"]
+			},
+			{
 				"id": "http://shew.micro.blog/2025/05/04/this-is-how-a-footlong/",
 				
 				"content_html": "<p>This is how a footlong sub boosts its price by 79.8% when it gets delivered to you in Ontario, Canada.</p>\n<!-- raw HTML omitted -->\n",
