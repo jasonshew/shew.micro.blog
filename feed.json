@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://shew.micro.blog/2025/05/19/its-a-shame-that-an/",
+				
+				"content_html": "<p>It’s a shame that an anniversary edition isn’t fully in Spatial Audio.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s a shame that an anniversary edition isn’t fully in Spatial Audio.\n\n<div><iframe id=\"apple-music-embed\" src=\"https://embed.music.apple.com/ca/album/oops-i-did-it-again-25th-anniversary-edition/1806140818?app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto\" height=\"450px\" frameborder=\"0\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation\" allow=\"autoplay *; encrypted-media *; clipboard-write\" style=\"width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s ease 0s 6 normal none running loading-indicator; background-color: transparent;\"></iframe></div>\n\n<div id=\"music-info\"><span class=\"ghostext\">💿 </span><span id=\"amalbum\"><a href=\"https://embed.music.apple.com/ca/album/oops-i-did-it-again-25th-anniversary-edition/1806140818\" target=\"_blank\" rel=\"noopener\">Oops!... I Did It Again (25th Anniversary Edition) (2025)</a> </span><span class=\"ghostext\"><br>🧑🏻‍🎤 </span><span id=\"amartist\">Britney Spears</span></div>\n",
+				"date_published": "2025-05-19T16:48:58-04:00",
+				"url": "https://jasonshew.com/2025/05/19/its-a-shame-that-an/",
+				"tags": ["Micropost"]
+			},
+			{
 				"id": "http://shew.micro.blog/2025/05/18/remnant/",
 				"title": "Remnant",
-				"content_html": "<p>The earthquake struck when I was six.<br>\nI survived.<br>\nMost of my classmates didn’t.</p>\n<p>Now I’m in college, in another city.<br>\nWhenever I return home, I pass their parents on the street.\nThey stop me,<br>\ntheir eyes scanning me —<br>\nas if searching for what might have been.<br>\nThen, with a gentle, aching smile, they say,<br>\n“You’ve grown so much.”</p>\n",
-				"content_text": "The earthquake struck when I was six.  \nI survived.  \nMost of my classmates didn’t.  \n\nNow I’m in college, in another city.  \nWhenever I return home, I pass their parents on the street.\nThey stop me,  \ntheir eyes scanning me —  \nas if searching for what might have been.  \nThen, with a gentle, aching smile, they say,  \n“You’ve grown so much.”\n",
+				"content_html": "<p>The earthquake struck when I was six.<br>\nI survived.<br>\nMost of my classmates didn’t.</p>\n<p>Now I’m in college, in another city.<br>\nWhenever I return home, I pass their parents on the street.<br>\nThey stop me,<br>\ntheir eyes scanning me —<br>\nas if searching for what might have been.<br>\nThen, with a gentle, aching smile, they say,<br>\n“You’ve grown so much.”</p>\n",
+				"content_text": "The earthquake struck when I was six.  \nI survived.  \nMost of my classmates didn’t.  \n\nNow I’m in college, in another city.  \nWhenever I return home, I pass their parents on the street.  \nThey stop me,  \ntheir eyes scanning me —  \nas if searching for what might have been.  \nThen, with a gentle, aching smile, they say,  \n“You’ve grown so much.”\n",
 				"date_published": "2025-05-18T01:11:40-04:00",
 				"url": "https://jasonshew.com/2025/05/18/remnant/",
 				"tags": ["Blogpost"]
