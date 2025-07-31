@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://shew.micro.blog/2025/07/31/is-weather-api-down-location/",
+				
+				"content_html": "<p>Is Weather API down?</p>\n<pre tabindex=\"0\"><code class=\"language-{\" data-lang=\"{\">    &quot;location&quot;: {\n        &quot;name&quot;: &quot;London&quot;,\n        &quot;region&quot;: &quot;Ontario&quot;,\n        &quot;country&quot;: &quot;Canada&quot;,\n        &quot;lat&quot;: 42.9833,\n        &quot;lon&quot;: -81.25,\n        &quot;tz_id&quot;: &quot;America/Toronto&quot;,\n        &quot;localtime_epoch&quot;: 1753938200,\n        &quot;localtime&quot;: &quot;2025-07-31 01:03&quot;\n    },\n    &quot;current&quot;: {\n        \n    }\n}```\n</code></pre>",
+				"content_text": "Is Weather API down? \n\n```{\n    \"location\": {\n        \"name\": \"London\",\n        \"region\": \"Ontario\",\n        \"country\": \"Canada\",\n        \"lat\": 42.9833,\n        \"lon\": -81.25,\n        \"tz_id\": \"America/Toronto\",\n        \"localtime_epoch\": 1753938200,\n        \"localtime\": \"2025-07-31 01:03\"\n    },\n    \"current\": {\n        \n    }\n}```\n",
+				"date_published": "2025-07-31T01:09:53-04:00",
+				"url": "https://blog.jasonshew.com/2025/07/31/is-weather-api-down-location/",
+				"tags": ["Micropost"]
+			},
+			{
+				"id": "http://shew.micro.blog/2025/07/27/ive-switched-back-to-the/",
+				
+				"content_html": "<p>I’ve switched back to the 24-hour notation on my main site, blog, and every other site I control. I’ve always been a fan of the 24-hour system, and the Canadian government encourages its use too. So… I figure doing a bit of mental math (like remembering that 00 is 12 a.m., 12 is 12 p.m., and subtracting 12 if the hour’s over 12) isn’t that hard, eh?</p>\n",
+				"content_text": "I’ve switched back to the 24-hour notation on my main site, blog, and every other site I control. I’ve always been a fan of the 24-hour system, and the Canadian government encourages its use too. So… I figure doing a bit of mental math (like remembering that 00 is 12 a.m., 12 is 12 p.m., and subtracting 12 if the hour’s over 12) isn’t that hard, eh?\n",
+				"date_published": "2025-07-27T18:29:51-04:00",
+				"url": "https://blog.jasonshew.com/2025/07/27/ive-switched-back-to-the/",
+				"tags": ["Micropost"]
+			},
+			{
 				"id": "http://shew.micro.blog/2025/07/09/ive-moved-my-contacts-and/",
 				
 				"content_html": "<p>I’ve moved my Contacts and Calendar from iCloud to Google. I still keep iCloud Mail for non-personal emails. iCloud Reminders has never really grown on me; I only use it once in a while. iCloud Notes is the only one I still find unbeatable.</p>\n",
