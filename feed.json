@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://shew.micro.blog/2025/08/01/say-your-email-is-johnnetflixcom/",
+				
+				"content_html": "<p>Say your email is <a href=\"mailto:john@netflix.com\">john@netflix.com</a>. People will probably think you work there. But few are going to think that if it’s <a href=\"mailto:john@yahoo.com\">john@yahoo.com</a>.</p>\n",
+				"content_text": "Say your email is john@netflix.com. People will probably think you work there. But few are going to think that if it’s john@yahoo.com.\n",
+				"date_published": "2025-08-01T20:27:07-04:00",
+				"url": "https://blog.jasonshew.com/2025/08/01/say-your-email-is-johnnetflixcom/",
+				"tags": ["Micropost"]
+			},
+			{
 				"id": "http://shew.micro.blog/2025/07/31/is-weather-api-down-location/",
 				
-				"content_html": "<p>Is Weather API down?</p>\n<pre tabindex=\"0\"><code class=\"language-{\" data-lang=\"{\">    &quot;location&quot;: {\n        &quot;name&quot;: &quot;London&quot;,\n        &quot;region&quot;: &quot;Ontario&quot;,\n        &quot;country&quot;: &quot;Canada&quot;,\n        &quot;lat&quot;: 42.9833,\n        &quot;lon&quot;: -81.25,\n        &quot;tz_id&quot;: &quot;America/Toronto&quot;,\n        &quot;localtime_epoch&quot;: 1753938200,\n        &quot;localtime&quot;: &quot;2025-07-31 01:03&quot;\n    },\n    &quot;current&quot;: {\n        \n    }\n}```\n</code></pre>",
-				"content_text": "Is Weather API down? \n\n```{\n    \"location\": {\n        \"name\": \"London\",\n        \"region\": \"Ontario\",\n        \"country\": \"Canada\",\n        \"lat\": 42.9833,\n        \"lon\": -81.25,\n        \"tz_id\": \"America/Toronto\",\n        \"localtime_epoch\": 1753938200,\n        \"localtime\": \"2025-07-31 01:03\"\n    },\n    \"current\": {\n        \n    }\n}```\n",
+				"content_html": "<p>Is Weather API down?</p>\n<pre tabindex=\"0\"><code>{\n    &quot;location&quot;: {\n        &quot;name&quot;: &quot;London&quot;,\n        &quot;region&quot;: &quot;Ontario&quot;,\n        &quot;country&quot;: &quot;Canada&quot;,\n        &quot;lat&quot;: 42.9833,\n        &quot;lon&quot;: -81.25,\n        &quot;tz_id&quot;: &quot;America/Toronto&quot;,\n        &quot;localtime_epoch&quot;: 1753938200,\n        &quot;localtime&quot;: &quot;2025-07-31 01:03&quot;\n    },\n    &quot;current&quot;: {\n        \n    }\n}\n</code></pre>",
+				"content_text": "Is Weather API down? \n\n```\n{\n    \"location\": {\n        \"name\": \"London\",\n        \"region\": \"Ontario\",\n        \"country\": \"Canada\",\n        \"lat\": 42.9833,\n        \"lon\": -81.25,\n        \"tz_id\": \"America/Toronto\",\n        \"localtime_epoch\": 1753938200,\n        \"localtime\": \"2025-07-31 01:03\"\n    },\n    \"current\": {\n        \n    }\n}\n```\n",
 				"date_published": "2025-07-31T01:09:53-04:00",
 				"url": "https://blog.jasonshew.com/2025/07/31/is-weather-api-down-location/",
 				"tags": ["Micropost"]
